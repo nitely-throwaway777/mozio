@@ -7,7 +7,9 @@
 
 ## Live API docs
 
-[Browsable API](http://mozio.spirit-project.com)
+[Swaggler Browsable API](http://mozio.spirit-project.com)
+
+[Default Browsable API](http://mozio.spirit-project.com/api/v1/)
 
 To check them locally, just start the server and go to the root URL.
 
